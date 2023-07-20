@@ -1,0 +1,85 @@
+.body1 {
+    width: 50%;
+    border-style: solid;
+    border-width: medium;
+    padding: 20px;
+    
+}
+
+.awal {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    width: 100%;
+    background-color:#DAF5FF;
+  }
+  
+  h2 {
+    align-self: center;
+  }
+  
+  .form {
+
+    border-style: hidden;
+    width: 100%;
+    background-color:#DAF5FF;
+  }
+
+  .calculator-container {
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+  
+  .jenis-kelamin {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  .input-container {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  .form-button {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    /* justify-content: space-between; */
+    gap: 20px;
+  }
+  
+  ol {
+    padding-left: 0;
+    list-style-position: inside;
+  }
+  .hasil {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    background-color:#DAF5FF;
+  }
+  
+  .hasil-angka {
+    border-style: groove;
+    width: 100%;
+    align-items: center;
+    background-color:#B9E9FCF;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  ul {
+    /* align-items: center; */
+    list-style-type: none;
+    text-align: center;
+  }
